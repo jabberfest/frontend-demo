@@ -21,7 +21,7 @@ group :assets do
 end
 
 gem 'compass'
-
+gem 'haml-rails'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
